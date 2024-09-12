@@ -109,4 +109,4 @@ POST /login: Test user login.
 POST /api/users/register: Test user registration.
 
 
-This `README.md` file provides a basic overview of your project, including frontend and backend URLs, as well as setup instructions and usage with Postman. If you need any additional details or modifications, just let me know!
+This `README.md` file provides a basic overview of my project, including frontend and backend URLs, as well as setup instructions and usage with Postman. If you need any additional details or modifications, just let me know!
