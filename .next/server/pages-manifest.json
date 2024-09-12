@@ -2,7 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/posts": "pages/posts.js",
+  "/create-post": "pages/create-post.js",
+  "/login": "pages/login.js",
   "/create-comment": "pages/create-comment.js",
-  "/DeletePost": "pages/DeletePost.js"
+  "/posts": "pages/posts.js"
 }
