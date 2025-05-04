@@ -1,5 +1,5 @@
 # fullstack-assessment
-# Full-Stack Assessment
+# Full-Stack Application
 
 ## Overview
 
